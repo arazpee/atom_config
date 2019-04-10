@@ -1,0 +1,20 @@
+"*":
+  core:
+    disabledPackages: [
+      "linter-eslint"
+      "autocomplete"
+    ]
+    telemetryConsent: "limited"
+    useTreeSitterParsers: false
+  editor:
+    fontSize: 13
+    lineHeight: 1.7
+    showIndentGuide: true
+  "exception-reporting":
+    userId: "b93c6f59-8868-4a70-b81c-2d37d2f68b63"
+  kite:
+    showWelcomeNotificationOnStartup: false
+  "linter-ui-default":
+    panelHeight: 69
+  welcome:
+    showOnStartup: false
