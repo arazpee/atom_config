@@ -13,7 +13,8 @@ To track installed packages as well, you will need to run:
 and add that file to Git also.  
 
 
-    To restore, use:
+
+To restore, use:
 
     apm install --packages-file ~/.atom/package.list
 
